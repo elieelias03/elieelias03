@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently studying in **College Ahuntsic**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java, HTML, CSS, JavaScript and C#**
 
-- 💬 Ask me about **Java, SQL**
+- 💬 Ask me about **Java, SQL, NoSQL**
 
 - 📫 How to reach me **lalouss03@gmail.com**
 
